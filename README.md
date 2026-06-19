@@ -5,9 +5,9 @@ Supplementary Materials for our submission to **Interspeech Conference 2026** ti
 
 Supplementary materials are presented as follows: 
 
-- the complete results of the Linear Mixed-Effects (LME) models fitted separately for each of the 34 acoustic features (NE0–NE27, FNE12/23/34, and FNER ratios) and for each of the three analyzed sibilants (/ʂ/, /tʂ/, /ʐ/).
+- the complete results of the Linear Mixed-Effects (LME) models fitted separately for each of the 34 acoustic features (`NE0–NE27`, `FNE12/23/34`, and `FNER` ratios) and for each of the three analyzed sibilants (/ʂ/, /tʂ/, /ʐ/).
 
-- results are organized by feature, with a dedicated table for each of the 34 acoustic features (Tables S1–S34), reporting fixed-effect estimates, standard errors, degrees of freedom, t- and p-values, and marginal/conditional R² for all three phonemes.
+- results are organized by feature, with a dedicated table for each of the 34 acoustic features (*Tables S1–S34*), reporting fixed-effect estimates, standard errors, degrees of freedom, t- and p-values, and marginal/conditional R² for all three phonemes.
 
 - place of articulation (PoA) is coded relative to the Retroflex (normative) reference level; estimates for Dental, Interdental, and Postalveolar therefore represent the difference from the Retroflex intercept. Statistically significant fixed effects (p < .05) are highlighted in red.
 
