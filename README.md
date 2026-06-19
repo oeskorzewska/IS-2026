@@ -1,6 +1,6 @@
 # IS-2026
 # Supplementary Materials for our submission to **Interspeech Conference 2026** 
-titled: "Informativity of high-frequency bands on the place of articulation shift in retroflex sibilants produced by children"
+*"Informativity of high-frequency bands on the place of articulation shift in retroflex sibilants produced by children"*
 
 **DOI will be provided after the official publication of our accepted manuscript**
 
